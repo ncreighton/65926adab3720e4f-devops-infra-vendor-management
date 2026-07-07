@@ -1,0 +1,2 @@
+# 65926adab3720e4f-devops-infra-vendor-management
+Every DevOps engineers and platform teams needs this — most just don't know it yet.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Devops Infra Vendor Management And Procurement — fully configured and ready to use - Pre
