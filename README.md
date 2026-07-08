@@ -1,2 +1,28 @@
-# 65926adab3720e4f-devops-infra-vendor-management
-Every DevOps engineers and platform teams needs this — most just don't know it yet.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Devops Infra Vendor Management And Procurement — fully configured and ready to use - Pre
+# Devops Infra Vendor Management and Procurement API
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm00j12D1g009afQ8cZH1N)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm00j12D1g009afQ8cZH1N)
+
